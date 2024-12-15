@@ -18,6 +18,7 @@ Develop a scalable and reusable analytical platform using AWS services to handle
 6.	Visualization and Reporting
 Generate visualizations to communicate key findings effectively, aiding stakeholders in making informed decisions.
 7.	Analysis and Implementation of a Data Analytical Platform for Parks in City of  Vancouver- Mary Joshma Joy
+   
 
 The dataset has been extracted from the Vancouver Open Data Portal in Excel (.xlsx) format. While multiple options like .csv and .parquet are available, the Excel format is more suitable for our scenario.
 
